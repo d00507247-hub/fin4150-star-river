@@ -1,0 +1,353 @@
+===PAGE 1===
+Finance
+http://www.primisonline.com
+Copyright ©2007 by The McGraw−Hill Companies, Inc. All rights 
+reserved. Printed in the United States of America. Except as 
+permitted under the United States Copyright Act of 1976, no part 
+of this publication may be reproduced or distributed in any form 
+or by any means, or stored in a database or retrieval system, 
+without prior written permission of the publisher. 
+ 
+This McGraw−Hill Primis text may include materials submitted to 
+McGraw−Hill for publication by the instructor of this course. The 
+instructor is solely responsible for the editorial content of such 
+materials.
+111 FINAGEN ISBN: 0−390−83102−6
+This book was printed on recycled paper.
+===PAGE 2===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+1© The McGraw−Hill 
+Companies, 2007
+317
+Star River    Electronics Ltd.
+On July 5, 2001, her ﬁrst day as chief executive ofﬁcer (CEO) of Star River Elec-
+tronics Ltd., Adeline Koh confronted a host of management problems. One week ear-
+lier, Star River’s president and CEO had suddenly resigned to accept a CEO position
+with another ﬁrm. Koh had been appointed to ﬁll the position—starting immediately.
+Several items in her in-box that ﬁrst day were ﬁnancial in nature, either requiring a
+ﬁnancial decision or with outcomes that would have major ﬁnancial implications for
+the ﬁrm. That evening, Koh asked to meet with her assistant, Andy Chin, to begin
+addressing the most prominent issues.
+Star River Electronics and the Optical-Disc-
+Manufacturing Industry
+Star River Electronics had been founded as a joint venture between Starlight Elec-
+tronics Ltd., U.K., and an Asian venture-capital ﬁrm, New Era Partners. Based in
+Singapore, Star River’s sole business mission was to manufacture CD-ROMs as a sup-
+plier to major software companies. In no time, Star River had gained fame in the
+industry for producing high-quality discs.
+The popularity of optical and multimedia products created rapid growth for the
+CD-ROM manufacturing industry in the mid-1990s. Accordingly, small manufacturers
+proliferated, creating an oversupply that pushed prices down by as much as 40 percent.
+Consolidation followed as less efﬁcient producers began to feel the pinch.
+Star River Electronics survived the shakeout thanks to its sterling reputation. While
+other CD-ROM manufacturers ﬂoundered, volume sales at the company grew at a robust
+rate in the past two years. Unit prices, however, had declined because of price competi-
+tion and the growing popularity of substitute storage devices, particularly digital video
+discs (DVDs). The latter had 14 times more storage capacity and threatened to displace
+CD-ROMs. Although CD-ROM disc drivescomprised 93 percent of all optical-disc-drive
+shipments in 1999, a study predicted that this number would fall to 41 percent by 2005,
+24CASE
+This case is derived from materials originally prepared by Robert Bruner, Robert Conroy, and Kenneth
+Eades. The ﬁrms and individuals in the case are ﬁctitious. The ﬁnancial support of the Batten Institute is
+gratefully acknowledged. It was written as a basis for class discussion rather than to illustrate effective 
+or ineffective handling of an administrative situation. Copyright © 2001 by the University of Virginia
+Darden School Foundation, Charlottesville, V A. All rights reserved. To order copies, send an e-mail to
+sales@dardenpublishing.com. No part of this publication may be reproduced, stored in a retrieval system,
+used in a spreadsheet, or transmitted in any form or by any means—electronic, mechanical, photocopying,
+recording, or otherwise—without the permission of the Darden School Foundation.
+===PAGE 3===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+2 © The McGraw−Hill 
+Companies, 2007
+while the share of DVD drives would rise to 59 percent.1 Star River had begun to exper-
+iment with DVD manufacturing, but DVDs still accounted for less than 5 percent of its
+sales at ﬁscal year-end 2001. With new installed capacity, however, the company hoped
+to increase the proportion of revenue from DVDs.
+Financial Questions Facing Adeline Koh
+That evening, Koh met with Andy Chin, a promising new associate whom she had
+brought along from New Era Partners. Koh’s brief discussion with Chin went as follows:
+KOH: Back at New Era we looked at Star River as one of our most promising
+venture-capital investments. Now it seems that such optimism may not be
+warranted—at least until we get a solid understanding of the ﬁrm’s past perform-
+ance and its forecast performance. Did you have any success on this?
+CHIN: Yes, the bookkeeper gave me these: the historical-income statements
+[Exhibit 1] and balance sheets [Exhibit 2] for the last four years. The accounting
+system here is still pretty primitive. However, I checked a number of the accounts,
+and they look orderly. So I suspect that we can work with these ﬁgures. From
+these statements, I calculated a set of diagnostic ratios [Exhibit 3].
+KOH: I see you have been busy. Unfortunately, I can’t study these right now. I need
+you to review the historical performance of Star River for me, and to give me any
+positive or negative insights that you think are signiﬁcant.
+CHIN: When do you need this?
+KOH: At 7:00 a.m. tomorrow. I want to call on our banker tomorrow morning and
+get an extension on Star River’s loan.
+CHIN: The banker, Mr. Tan, said that Star River was “growing beyond its ﬁnancial
+capabilities.” What does that mean?
+KOH: It probably means that he doesn’t think we can repay the loan within a
+reasonable period. I would like you to build a simple ﬁnancial forecast of our
+performance for the next two years (ignore seasonal effects), and show me what
+our debt requirements will be at the ﬁscal years ending 2002 and 2003. I think it
+is reasonable to expect that Star River’s sales will grow at 15 percent each year.
+Also, you should assume capital expenditures of SGD54.6 million2 for DVD
+manufacturing equipment, spread out over the next two years and depreciated
+over seven years. Use whatever other assumptions seem appropriate to you based
+on your historical analysis of results. For this forecast, you should assume that any
+external funding is in the form of debt.
+CHIN: But what if the forecasts show that Star River cannot repay the loan?
+KOH: Then we’ll have to go back to Star River’s owners, New Era Partners and Star
+River Electronics U.K., for an injection of equity. Of course, New Era Partners
+318 Part Four Capital Budgeting and Resource Allocation
+1Global Industry Analysts, Inc., “TEAC—Facts, Figures and Forecasts,” 5.
+2SGD /H11005Singaporean dollars.
+===PAGE 4===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+3© The McGraw−Hill 
+Companies, 2007
+would rather not invest more funds unless we can show that the returns on such
+an investment would be very attractive, and/or that the survival of the company
+depends on it. Thus, my third request is for you to examine what returns on
+book assets and book equity Star River will offer in the next two years and to
+identify the “key-driver” assumptions of those returns. Finally, let me have your
+recommendations about operating and ﬁnancial changes I should make based on
+the historical analysis and the forecasts.
+CHIN: The plant manager revised his request for a new packaging machine and thinks
+these are the right numbers [see the plant manager’s memorandum in Exhibit 4].
+Essentially, the issue is whether to invest now or wait three years to buy the new
+packaging equipment. The new equipment can save signiﬁcantly on labor costs
+but carries a price tag of SGD1.82 million. My hunch is that our preference
+between investing now versus waiting three years will hinge on the discount rate.
+KOH: [laughing] The joke in business school was that the discount rate was always
+10 percent.
+CHIN: That’s not what my business school taught me! New Era always uses a
+40 percent discount rate to value equity investments in risky start-up companies.
+But Star River is reasonably well established now and shouldn’t require such a
+high-risk premium. I managed to pull together some data [see Exhibit 5] on other
+Singaporean electronics companies with which to estimate the required rate of
+return on equity.
+KOH: Fine. Please estimate Star River’s weighted-average cost of capital and assess
+the packaging-machine investment. I would like the results of your analysis
+tomorrow morning at 7:00.
+Case 24 Star River Electronics Ltd. 319
+===PAGE 5===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+4 © The McGraw−Hill 
+Companies, 2007
+320 Part Four Capital Budgeting and Resource Allocation
+EXHIBIT 1 | Historical Income Statements for Fiscal Y ear Ended June 30 
+(SGD 000)
+1998 1999 2000 2001
+Sales 71,924 80,115 92,613 106,042
+Operating expenses:
+Production costs and expenses 33,703 38,393 46,492 53,445
+Admin. and selling expenses 16,733 17,787 21,301 24,177
+Depreciation 8,076 9,028 10,392 11,360
+Total operating expenses 58,512 65,208 78,185 88,983
+Operating proﬁt 13,412 14,908 14,429 17,059
+Interest expense 5,464 6,010 7,938 7,818
+Earnings before taxes 7,949 8,897 6,491 9,241
+Income taxes* 2,221 2,322 1,601 2,093
+Net earnings 5,728 6,576 4,889 7,148
+Dividends to all common shares 2,000 2,000 2,000 2,000
+Retentions of earnings 3,728 4,576 2,889 5,148
+*The expected corporate tax rate was 24.5%.
+===PAGE 6===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+5© The McGraw−Hill 
+Companies, 2007
+Case 24 Star River Electronics Ltd. 321
+EXHIBIT 2 | Historical Balance Sheets for Fiscal Y ear Ended June 30
+(SGD 000)
+1998 1999 2000 2001
+Assets:
+Cash 4,816 5,670 6,090 5,795
+Accounts receivable 22,148 25,364 28,078 35,486
+Inventories 23,301 27,662 53,828 63,778
+Total current assets 50,265 58,697 87,996 105,059
+Gross property, plant & equipment 64,611 80,153 97,899 115,153
+Accumulated depreciation (4,559) (13,587) (23,979) (35,339)
+Net property, plant & equipment 60,052 66,566 73,920 79,814
+Total assets 110,317 125,262 161,916 184,873
+Liabilities and Stockholders’ Equity:
+Short-term borrowings (bank)1 29,002 37,160 73,089 84,981
+Accounts payable 12,315 12,806 11,890 13,370
+Other accrued liabilities 24,608 26,330 25,081 21,318
+Total current liabilities 65,926 76,296 110,060 119,669
+Long-term debt2 10,000 10,000 10,000 18,200
+Shareholders’ equity 34,391 38,967 41,856 47,004
+Total liabilities and stockholders’ equity 110,317 125,263 161,916 184,873
+1Short-term debt was borrowed from City Bank at an interest rate equal to Singaporean prime lending rates /H11001
+1.5 percent. Current prime lending rates were 5.2 percent. The benchmark 10-year Singapore treasury bond
+currently yielded 3.6 percent.
+2Two components made up the company’s long term debt. One was a SGD10 million loan that had been issued
+privately in 1996 to New Era Partners and to Star River Electronics Ltd., U.K. This debt was subordinate to any
+bank debt outstanding. The second component was a SGD8.2 million from a 5-year bond issued on a private
+placement basis last July 1, 2000 at a price of SGD97 and a coupon of 5.75% paid semi-annually.
+===PAGE 7===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+6 © The McGraw−Hill 
+Companies, 2007
+322 Part Four Capital Budgeting and Resource Allocation
+EXHIBIT 3 | Ratio Analyses of Historical Financial Statements
+1998 1999 2000 2001
+Proﬁtability
+Operating margin (%) 18.6% 18.6% 15.6% 16.1%
+Tax rate (%) 27.9% 26.1% 24.7% 22.6%
+Return on sales (%) 8.0% 8.2% 5.3% 6.7%
+Return on equity (%) 16.7% 16.9% 11.7% 15.2%
+Return on assets (%) 5.2% 5.2% 3.0% 3.9%
+Leverage
+Debt/equity ratio 1.13 1.21 1.99 2.20
+Debt/total capital (%) 0.53 0.55 0.67 0.69
+EBIT/interest (x) 2.45 2.48 1.82 2.18
+Asset Utilization
+Sales/assets 65.2% 64.0% 57.2% 57.4%
+Sales growth rate (%) 15.0% 11.4% 15.6% 14.5%
+Assets growth rate (%) 8.0% 13.5% 29.3% 14.2%
+Days in receivables 112.4 115.6 110.7 122.1
+Payables to COGS 36.5% 33.4% 25.6% 25.0%
+Inventories to COGS 69.1% 72.1% 115.8% 119.3%
+Liquidity
+Current ratio 0.76 0.77 0.80 0.88
+Quick ratio 0.41 0.41 0.31 0.34
+===PAGE 8===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+7© The McGraw−Hill 
+Companies, 2007
+Case 24 Star River Electronics Ltd. 323
+EXHIBIT 4 | Plant Manager’s Memo Regarding New Packaging Equipment
+MEMORANDUM
+TO: Adeline Koh, President and CEO, Star River Electronics
+FROM: Esmond Lim, Plant Manager
+DATE: June 30, 2001
+SUBJECT: New Packaging Equipment
+Although our CD packaging equipment is adequate at current production levels, it is terribly inefﬁcient. The new
+machinery on the market can give us signiﬁcant labor savings as well as increased ﬂexibility with respect to the
+type of packaging used. I recommend that we go with the new technology. Should we decide to do so, the new
+machine can be acquired immediately. The considerations relevant to the decision are included in this memo.
+Our current packaging equipment was purchased ﬁve years ago as used equipment in a liquidation sale of a
+small company. Although the equipment was inexpensive, it is slow, requires constant monitoring and is frequently
+shut down for repairs. Since the packaging equipment is signiﬁcantly slower than the production equipment, we
+routinely have to use overtime labor to allow packaging to catch up with production. When the packager is down
+for repairs, the problem is exacerbated and we may spend several two-shift days catching up with production. I
+cannot say that we have missed any deadlines because of packaging problems, but it is a constant concern
+around here and things would run a lot smoother with more reliable equipment. In 2002 we will pay about
+SGD15,470 per year for maintenance costs. The operator is paid SGD63,700 per year for his regular time, but he
+has been averaging SGD81,900 per year because of the overtime he has been working. The equipment is on the
+tax and reporting books at SGD218,400 and will be fully depreciated in three years time (we are currently using
+the straight-line depreciation method for both tax and reporting purposes and will continue to do so). Because of
+changes in packaging technology, the equipment has no market value other than its worth as scrap metal. But its
+scrap value is about equal to the cost of having it removed. In short, we believe the equipment has no salvage
+value at all.
+The new packager offers many advantages over the current equipment. It is faster, more reliable, more ﬂexible
+with respect to the types of packaging it can perform, and will provide enough capacity to cover all our packaging
+needs in the foreseeable future. With suitable maintenance, we believe the packager will operate indeﬁnitely.
+Thus, for the purposes of our analysis, we can assume that this will be the last packaging equipment we will ever
+have to purchase. Because of the anticipated growth at Star River, the current equipment will not be able to
+handle our packaging needs by the end of 2004. Thus, if we do not buy new packaging equipment by this year’s
+end, we will have to buy it after three years time anyway. Since the speed, capacity, and reliability of the new
+equipment will eliminate the need for overtime labor, we feel strongly that we should buy now rather than wait
+another three years.
+The new equipment currently costs SGD1.82 million which we would depreciate over 10 years at SGD182,000
+per year. It comes with a life-time factory maintenance contract that covers all routine maintenance and repairs at
+a price of SGD3,640 for the initial year. The contract stipulates that the price after the ﬁrst year will be increased
+by the same percentage as the rate of increase of the price of new equipment. Thus if the manufacturer continues
+to increase the price of new packaging equipment at 5 percent per annum as it has in the past, our maintenance
+costs will rise by 5 percent also. We believe that this sort of regular maintenance should insure that the new
+equipment will keep operating in the foreseeable future without the need for a major overhaul.
+Star River’s labor and maintenance costs will continue to rise due to inﬂation at approximately 1.5 percent per
+year over the long term. Because the manufacturer of the packaging equipment has been increasing its prices at
+about 5 percent per year, we can expect to save SGD286,878 in the purchase price by buying now rather than
+waiting three years. The marginal tax rate for this investment would be 24.5 percent.
+===PAGE 9===
+Bruner: Case Studies in 
+Finance: Managing for 
+Corporate Value Creation, 
+Fifth Edition
+IV. Capital Budgeting and 
+Resource Allocation
+24. Star River Electronics 
+Ltd.
+8 © The McGraw−Hill 
+Companies, 2007
+EXHIBIT 5 | Data on Comparable Companies and Capital-Market Conditions
+% of 
+Sales from Book Market Number of 5-Year
+CD-ROM Price/ Value Price Shares Last Earnings
+and/or DVD Earnings Book per per Outstanding Annual Growth
+Name Production Ratio Beta D/E Share Share (millions) Dividend Forecast
+Sing Studios, Inc. 20% 9.0 1.07 0.23 1.24 1.37 9.3 1.82 4.0%
+Wintronics, Inc. 95% NMF 1.56 1.70 1.46 6.39 177.2 0.15 15.7%
+STOR-Max Corp. 90% 18.2 1.67 1.30 7.06 27.48 89.3 none 21.3%
+Digital Media Corp. 30% 34.6 1.18 0.00 17.75 75.22 48.3 none 38.2%
+Wymax, Inc. 60% NMF 1.52 0.40 6.95 22.19 371.2 1.57 11.3%
+Note: NMF means not a meaningful ﬁgure. This arises when a company’s earnings or projected earnings are negative.
+Singapore’s equity market risk premium could be assumed to be close to the global equity market premium of 6 percent, given Singapore’s high rate of integration into global
+markets.
+Descriptions of Companies
+Sing Studios, Inc.
+This company was founded 50 years ago. Its major business activities historically had been production of original-artist recordings, management
+and production of rock-and-roll road tours, and personal management of artists. It entered the CD-production market in the 1980s, and only recently
+branched out into the manufacture of CD-ROMs. Most of its business, however, related to the manufacture and sale of MIDI (Music Instrument 
+Digital Interface) CDs.
+Wintronics, Inc.
+This company was a spin-off from a large technology-holding corporation in 1981. Although the company was a leader in the production of CD-ROMs
+and DVDs, it has recently suffered a decline in sales. Inﬁghting among the principal owners has fed concerns about the ﬁrm’s prospects.
+STOR-Max Corp.
+This company, founded only two years ago, had emerged as a very aggressive competitor in the area of CD-ROM and DVD production.It was Star
+River’s major competitor and its sales level was about the same.
+Digital Media Corp.
+This company had recently been an innovator in the production of DVDs. Although DVD manufacturing was not a majority of its business (ﬁlm 
+production and digital animation were its main focus), the company was projected to be a major competitor within the next three years.
+Wymax, Inc.
+This company was an early pioneer in the CD-ROM and DVD industries. Recently, however, it had begun to invest in software programming and
+had been moving away from disc production as its main focus of business.
+324
