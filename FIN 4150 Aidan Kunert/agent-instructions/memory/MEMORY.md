@@ -1,0 +1,3 @@
+- [.env is the priority source for env vars](env-file-is-priority-source.md) — load with override so .env wins over shell exports.
+- [Never expose API keys](never-expose-api-keys.md) — no printing, no files, no command lines; read via os.environ in a script.
+- [Aviation career track](aviation-career-track.md) — pilot career is the goal, finance is backup; Part 141 at Axiom starting Jan 2027.
